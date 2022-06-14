@@ -1,0 +1,25 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body{
+background-color:#ccccff ;
+}
+
+main{
+	width: 70%;
+	padding: 50px;
+	margin: auto;
+}
+
+
+.photo{
+	width: 200px;
+	height: 100px;
+	margin: 10px;
+	background-color: #999999;
+
+
+}
